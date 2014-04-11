@@ -1,3 +1,5 @@
+package dao;
+
 import java.util.ResourceBundle;
 
 public class TextsDao {
