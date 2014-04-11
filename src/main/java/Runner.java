@@ -1,6 +1,6 @@
 import service.MailService;
 
-public class MailTest {
+public class Runner {
     public static void main(String[] args) {
         String from = "sender";
         String to = "receipment";
